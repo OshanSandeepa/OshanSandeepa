@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Oszz👋</h1>
+<h1 align="center">Hello , I'm Oshan Sandeepa👋</h1>
 <h3 align="center">I'm Undergraduate🎓 from Sabaragamuwa University Of Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshansandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="oshansandeepa" /> </p>
